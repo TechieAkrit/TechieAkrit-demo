@@ -1,2 +1,3 @@
 # TechieAkrit-demo
 This is my first Git repository
+Author-Akrit kumar
