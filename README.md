@@ -13,4 +13,15 @@ SEM-2nd
 <br>
 State-Karnataka
 <br>
-# include<stdio.h>
+#include<stdio.h>
+<br>
+int main()
+<br>
+{
+<br>
+printf("hello world");
+<br>
+return 0
+<br>
+}
+
