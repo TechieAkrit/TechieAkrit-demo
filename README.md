@@ -7,10 +7,10 @@ Branch-ISE
 <br>
 USN-1MV22IS008
 <br>
-SEM-3rd
-<br>
 YEAR-2nd
+<br>
+SEM-2nd
 <br>
 State-Karnataka
 <br>
-
+# include<stdio.h>
